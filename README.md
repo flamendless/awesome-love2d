@@ -275,6 +275,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [i18n](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game
 * [Ini Parser](https://github.com/FivosM/ini_parser) - General purpose ini configuration parser
 * [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output
+* [log.lua (löve)](https://github.com/flamendless/log.lua) - fork of log.lua with more löve-related functionalities
 * [love-loader](https://github.com/kikito/love-loader) - Threaded resource loading
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
 * [love-pe](https://github.com/RamiLego4Game/love-pe) - A tool made in LÖVE for changing LÖVE icon itself
