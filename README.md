@@ -79,6 +79,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [debugGraph](https://github.com/Mechazawa/Love-Debug-Graph) - Small OO FPS graphing utillity based on FPSGraph
 * [Lovebird](https://github.com/rxi/lovebird) - Browser-based debug console
 * [LoveDebug](https://github.com/Ranguna/LOVEDEBUG) - Inline console-like debugger utility
+* [lovedebug](https://github.com/flamendless/lovedebug) - Updated fork of LoveDebug with fixes and updates
 * [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game
 * [LÖVE API](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table
 * [LÖVE Build](https://github.com/nhartland/love-build) - GitHub Action for automated cross-platform builds
